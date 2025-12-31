@@ -1,8 +1,8 @@
 # Hi, I'm Jean Smith FP  <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="100px" weight="100" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a System Engineering Student  
+## I'm a Systems Engineering Student - 9° 
 
 - 👨‍💻 I’m currently studying on Management DataBases and Web development technologies 
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
@@ -11,28 +11,31 @@
 
 ---
 
-<p align="center">
-  <img src="./assets/sl_banner.png" alt="Mi banner" width="400">
+<p align="left" style="bold">
+**🔭 Actualmente
+- Buscando prácticas preprofesionales para aplicar en los ambitos de Gestion de Datos y en desarrollo web 👨‍💻.
+- Aprendiendo uso de Framework y PowerApps
 </p>
-### 🔭 Actualmente
-- Buscando prácticas preprofesionales para aplicar y crecer en desarrollo web 👨‍💻.
-- Aprendiendo Kotlin para desarrollo móvil.
+
 
 ### 💡 Habilidades blandas
-![Trabajo en equipo](https://img.shields.io/badge/-Trabajo%20en%20equipo-blue)
+![Teamwork](https://img.shields.io/badge/-Teamwork-0A66C2?style=flat-square)
+![Empatia](https://img.shields.io/badge/-Empathy-8E44AD?style=flat-square)
+![Adaptability](https://img.shields.io/badge/-Adaptability-F1C40F?style=flat-square&logoColor=000000)
 ![Proactividad](https://img.shields.io/badge/-Proactividad-green)
-![Autodidacta](https://img.shields.io/badge/-Autodidacta-orange)
-![Adaptabilidad](https://img.shields.io/badge/-Adaptabilidad-yellow)
+![Problem%20Solving](https://img.shields.io/badge/-Problem%20Solving-E67E22?style=flat-square)
+![Compromiso](https://img.shields.io/badge/-Commitment-27AE60?style=flat-square)
+
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/qkhxz2c9ktordciz78z2v0cnl)
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=JeanSmith1505&repo=JeanSmith1505&countColorcountColor&countColor=%237B1E7B"/>
+[<img align="left" alt="Jean Smith | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][spotify]
 
 ### Contact with me 📝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-smith-fp-1505x/) 
@@ -96,10 +99,8 @@
 
 ---
 
-[instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: [https://www.linkedin.com/in/bilgehan-geçici-8b368614a/](https://www.linkedin.com/in/jean-smith-fp-1505x/)
-[Spotify]: [https://open.spotify.com/user/11153360645](https://open.spotify.com/user/qkhxz2c9ktordciz78z2v0cnl)
-
+[linkedin]: https://www.linkedin.com/in/jean-smith-fp-1505x/
+[spotify]: https://open.spotify.com/user/qkhxz2c9ktordciz78z2v0cnl
 
 ----
 Credit: [JeanSmith1505](https://github.com/JeanSmith1505)
