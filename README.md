@@ -11,6 +11,24 @@
 
 ---
 
+<p align="center">
+  <img src="./assets/sl_banner.png" alt="Mi banner" width="400">
+</p>
+### 🔭 Actualmente
+- Buscando prácticas preprofesionales para aplicar y crecer en desarrollo web 👨‍💻.
+- Aprendiendo Kotlin para desarrollo móvil.
+
+### 💡 Habilidades blandas
+![Trabajo en equipo](https://img.shields.io/badge/-Trabajo%20en%20equipo-blue)
+![Proactividad](https://img.shields.io/badge/-Proactividad-green)
+![Autodidacta](https://img.shields.io/badge/-Autodidacta-orange)
+![Adaptabilidad](https://img.shields.io/badge/-Adaptabilidad-yellow)
+
+## 🌐 Redes:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-smith-fp-1505x/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeansmith1505@gmail.com) 
+
+
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
@@ -23,7 +41,6 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
 [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
 [<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
 [<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
