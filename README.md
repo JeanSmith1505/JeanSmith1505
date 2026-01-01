@@ -36,7 +36,7 @@
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/qkhxz2c9ktordciz78z2v0cnl)
-
+---
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=JeanSmith1505&countColorcountColor&countColor=%237B1E7B"/>
 ---
 
@@ -94,16 +94,15 @@
        alt="Jean Smith Spotify"
        style="margin-bottom: 5px;" />
 </a>
+</div>
 
+--
 
+## ⭐️ From [JeanSmith1505](https://github.com/JeanSmith1505) ##
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
----
-
-### ⭐️ From [JeanSmith1505](https://github.com/JeanSmith1505) ### 
 
 
 [linkedin]: 
