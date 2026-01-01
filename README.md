@@ -1,8 +1,9 @@
 # Hi, I'm Jean Smith FP  <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="100px" weight="100" style="margin-top:20" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 # I'm a Systems Engineering Student - 9° 
+
+<img align="right" alt="GIF" height="100px" weight="100" style="margin-top:20" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 👨‍💻 I’m currently studying on Management DataBases and Web development technologies 
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
@@ -35,12 +36,6 @@
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/qkhxz2c9ktordciz78z2v0cnl)
-
----
-
-[<img align="left" alt="Jean Smith | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][spotify]
-
-<br />
 
 ---
 
@@ -90,10 +85,6 @@
 </a>
   
 <a href="mailto:jeansmith1505@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
-</a>
-
-<a href="[mailto:jeansmith1505@gmail.com](https://open.spotify.com/user/qkhxz2c9ktordciz78z2v0cnl)" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
