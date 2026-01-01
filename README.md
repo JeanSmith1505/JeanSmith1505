@@ -40,13 +40,23 @@
 
 [<img align="left" alt="Jean Smith | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][spotify]
 
-### Contact with me 📝
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-smith-fp-1505x/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeansmith1505@gmail.com) 
 
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
+## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+<a href="https://www.linkedin.com/in/jean-smith-fp-1505x/" target="_blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg"
+       alt="Jean Smith LinkedIn"
+       height="30"
+       width="40" />
+</a>
+
+<a href="https://open.spotify.com/user/qkhxz2c9ktordciz78z2v0cnl" target="_blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg"
+       alt="Jean Smith Spotify"
+       height="30"
+       width="40" />
+</a>
 
 <br />
 
@@ -83,16 +93,12 @@
 
 <br/>
 
-  <h2 align="center"> Github Statistics 📈 </h2>
   <div align="center"> 
+    <h2 align="center"> Github Statistics 📈 </h2>
      <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JeanSmith1505&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSmith1505&theme=react&line_height=40&hide=css"/>
-    </a>
   </div>
-
 <br/>
 
 ---
