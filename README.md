@@ -37,6 +37,7 @@
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/qkhxz2c9ktordciz78z2v0cnl)
 
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=JeanSmith1505&countColorcountColor&countColor=%237B1E7B"/>
 ---
 
 ### Languages and Tools 🛠 
