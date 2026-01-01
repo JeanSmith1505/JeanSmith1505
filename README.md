@@ -7,7 +7,7 @@
 - 👨‍💻 I’m currently studying on Management DataBases and Web development technologies 
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play football and swimming 🎱.
+- ⚡ Fun fact: I love to play football and swimming ⚽.
 
 ---
 
@@ -84,7 +84,6 @@
 <br/>
 
   <h2 align="center"> Github Statistics 📈 </h2>
-  
   <div align="center"> 
      <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JeanSmith1505&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
@@ -92,7 +91,7 @@
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSmith1505&theme=react&line_height=40&hide=css"/>
     </a>
-</div
+  </div>
 
 <br/>
 
@@ -100,12 +99,8 @@
 
 ### ⭐️ From [JeanSmith1505](https://github.com/JeanSmith1505) ### 
 
----
 
 [linkedin]: https://www.linkedin.com/in/jean-smith-fp-1505x/
 [spotify]: https://open.spotify.com/user/qkhxz2c9ktordciz78z2v0cnl
-
-----
-Credit: [JeanSmith1505](https://github.com/JeanSmith1505)
 
 Last Edited on: 01/01/2026
