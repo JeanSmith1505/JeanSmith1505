@@ -1,8 +1,8 @@
 # Hi, I'm Jean Smith FP  <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="100px" weight="100" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="100px" weight="100" style="margin-top:20" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Systems Engineering Student - 9° 
+# I'm a Systems Engineering Student - 9° 
 
 - 👨‍💻 I’m currently studying on Management DataBases and Web development technologies 
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
@@ -11,11 +11,14 @@
 
 ---
 
-<p align="left" style="bold">
+<p align="left" style="font-weight:bold">
 **🔭 Actualmente
 - Buscando prácticas preprofesionales para aplicar en los ambitos de Gestion de Datos y en desarrollo web 👨‍💻.
 - Aprendiendo uso de Framework y PowerApps
 </p>
+
+---
+
 
 
 ### 💡 Habilidades blandas
