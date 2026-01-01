@@ -40,26 +40,6 @@
 
 [<img align="left" alt="Jean Smith | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][spotify]
 
-
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
- <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-  
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://twitter.com/kiran__a__n" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
-</a>
-</div>
-
 <br />
 
 ---
@@ -103,10 +83,38 @@
 
 ---
 
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+ <a href="https://www.linkedin.com/in/jean-smith-fp-1505x/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+  
+<a href="mailto:jeansmith1505@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+</a>
+
+<a href="[mailto:jeansmith1505@gmail.com](https://open.spotify.com/user/qkhxz2c9ktordciz78z2v0cnl)" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://open.spotify.com/user/qkhxz2c9ktordciz78z2v0cnl" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
+       alt="Jean Smith Spotify"
+       style="margin-bottom: 5px;" />
+</a>
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
+---
+
 ### ⭐️ From [JeanSmith1505](https://github.com/JeanSmith1505) ### 
 
 
-[linkedin]: https://www.linkedin.com/in/jean-smith-fp-1505x/
-[spotify]: https://open.spotify.com/user/qkhxz2c9ktordciz78z2v0cnl
+[linkedin]: 
+[spotify]: 
 
 Last Edited on: 01/01/2026
