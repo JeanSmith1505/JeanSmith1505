@@ -1,7 +1,7 @@
 # Hi, I'm Jean Smith FP  <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 
-# I'm a Systems Engineering Student - 9° 
+# I'm a Systems Engineering Student - 8° 
 
 <img align="right" alt="GIF" height="100px" weight="100" style="margin-top:20" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
