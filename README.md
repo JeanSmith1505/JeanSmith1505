@@ -16,6 +16,7 @@
 **🔭 Actualmente
 - Buscando prácticas preprofesionales para aplicar en los ambitos de Gestion de Datos y en desarrollo web 👨‍💻.
 - Aprendiendo uso de Framework y PowerApps
+- Modelado de base de datos y diseño en Frontend 
 </p>
 
 ---
